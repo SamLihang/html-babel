@@ -1,0 +1,19 @@
+{
+  "name": "babeltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-cheerio": "^0.6.3",
+    "gulp-dom-src": "^0.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-uglify": "^3.0.1",
+    "gulp-useref": "^3.1.6"
+  }
+}
